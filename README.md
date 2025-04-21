@@ -1,6 +1,8 @@
 # -E-BUSINESS
 * 21114/BUSI/F059B/01W * Foothill College
 
+Course:
+
 Business Model Patterns:
 
 Introduction to Business Model Patterns:
